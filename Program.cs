@@ -31,15 +31,16 @@ else
    Console.WriteLine($"{x} is max number:");
    */
 
-   /*
+   
    // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
    Console.WriteLine("Input the number:");
  int n = Convert.ToInt32(Console.ReadLine());
  int even = n / 2;
  if (even == 2)
- Console.WriteLine($"{n} is yes whole");
+ Console.WriteLine($"{n} is yes even");
   else
-  Console.WriteLine($"{n} is not whole");
-  */
+  Console.WriteLine($"{n} is not even");
+  
+ 
 
 
